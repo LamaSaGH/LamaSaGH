@@ -1,7 +1,7 @@
 Hi 👋 My name is Lama Alghannam
 ===============================
 
-I’m Data science and analytics student
+I’m Data science and analytics graduate
 
 * ✉️  You can contact me at [lama.alghannam.sa@gmail.com](mailto:lama.alghannam.sa@gmail.com)
 
