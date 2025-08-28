@@ -1,7 +1,7 @@
 # Hi, I'm Lama 👋  
 
 🎓 Data Science & Analytics Graduate  
-💡 Interested in Data Analysis, Machine Learning, and AI  
+💡 Interested in Data Science, Machine Learning, and AI  
 📍 Riyadh  
 
 ---
