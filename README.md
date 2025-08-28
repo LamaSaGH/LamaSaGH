@@ -1,31 +1,22 @@
 # Hi, I'm Lama 👋  
 
 🎓 Data Science & Analytics Graduate  
-💡 Interested in Data Analysis, Machine Learning, and AI Applications  
-📍 Based in Riyadh  
+💡 Interested in Data Analysis, Machine Learning, and AI  
+📍 Riyadh  
 
 ---
 
 ## 🔧 Skills  
-- Python  
-- SQL  
-- Data Analysis & Visualization  
-
----
-
-## 📂 Featured Projects  
-- [Udacity Data Analyst Nanodegree](https://github.com/LamaSaGH/Udacity-DataAnalyst-Nanodegree)  
-- [Olist Dashboard](https://github.com/LamaSaGH/Olist-dashboard)  
+Python | SQL | Data Visualization  
 
 ---
 
 ## 🌱 Currently  
-- Exploring Deep Learning & AI  
-- Building projects to strengthen my portfolio  
+Learning more about Deep Learning & AI, and building projects to grow my portfolio.  
 
 ---
 
 ## 📫 Contact  
-- 📧 [Email](mailto:lama.alghannam.sa@gmail.com)  
-- 💼 [LinkedIn](http://linkedin.com/in/lama-alghannam)  
+[Email](mailto:lama.alghannam.sa@gmail.com) | [LinkedIn](http://linkedin.com/in/lama-alghannam)  
+
 
