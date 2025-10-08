@@ -7,7 +7,7 @@
 ---
 
 ## 🔧 Skills  
-Python | SQL | Data Visualization  
+Python | SQL   
 
 ---
 
