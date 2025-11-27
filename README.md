@@ -1,22 +1,22 @@
 # Hi, I'm Lama 👋  
 
-🎓 Data Science & Analytics Graduate  
-💡 Interested in Data Science, Machine Learning, and AI  
-📍 Riyadh  
+Data Science & Analytics Graduate  
+Interested in Data Science, Machine Learning, and AI  
+Riyadh  
 
 ---
 
-## 🔧 Skills  
+##  Skills  
 Python | SQL   
 
 ---
 
-## 🌱 Currently  
+##  Currently  
 Learning more about Deep Learning & AI, and building projects to grow my portfolio.  
 
 ---
 
-## 📫 Contact  
+##  Contact  
 [Email](mailto:lama.alghannam.sa@gmail.com) | [LinkedIn](http://linkedin.com/in/lama-alghannam)  
 
 
