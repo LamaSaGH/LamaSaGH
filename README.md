@@ -6,11 +6,6 @@ Riyadh
 
 ---
 
-##  Skills  
-Python | SQL   
-
----
-
 ##  Currently  
 Learning more about Deep Learning & AI, and building projects to grow my portfolio.  
 
